@@ -1,0 +1,14 @@
+C:\Users\patel\source\repos\JobOrder\JobOrder\bin\Debug\JobOrder.exe.config
+C:\Users\patel\source\repos\JobOrder\JobOrder\bin\Debug\JobOrder.exe
+C:\Users\patel\source\repos\JobOrder\JobOrder\bin\Debug\JobOrder.pdb
+C:\Users\patel\source\repos\JobOrder\JobOrder\obj\Debug\JobOrder.csprojResolveAssemblyReference.cache
+C:\Users\patel\source\repos\JobOrder\JobOrder\obj\Debug\JobOrder.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\JobOrder\JobOrder\obj\Debug\JobOrder.exe
+C:\Users\patel\source\repos\JobOrder\JobOrder\obj\Debug\JobOrder.pdb
+C:\Users\Pradeep\Google Drive\Work\JobOrder (1)\JobOrder\bin\Debug\JobOrder.exe.config
+C:\Users\Pradeep\Google Drive\Work\JobOrder (1)\JobOrder\bin\Debug\JobOrder.exe
+C:\Users\Pradeep\Google Drive\Work\JobOrder (1)\JobOrder\bin\Debug\JobOrder.pdb
+C:\Users\Pradeep\Google Drive\Work\JobOrder (1)\JobOrder\obj\Debug\JobOrder.csprojAssemblyReference.cache
+C:\Users\Pradeep\Google Drive\Work\JobOrder (1)\JobOrder\obj\Debug\JobOrder.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep\Google Drive\Work\JobOrder (1)\JobOrder\obj\Debug\JobOrder.exe
+C:\Users\Pradeep\Google Drive\Work\JobOrder (1)\JobOrder\obj\Debug\JobOrder.pdb
